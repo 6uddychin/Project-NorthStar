@@ -1,0 +1,82 @@
+[{
+        "id": 1,
+        "Kiosk":  {
+            "index": 0,
+            "guid": "74211891-3adc-4a48-836a-cce6c8b7553d",
+            "monthly_visits": [
+                {
+                    "id": 0,
+                    "month_number": 1,
+                    "month": "Jan",
+                    "visits": 429
+                },
+                {
+                    "id": 1,
+                    "month_number": 1,
+                    "month": "Jan",
+                    "visits": 447
+                },
+                {
+                    "id": 2,
+                    "month_number": 1,
+                    "month": "Jan",
+                    "visits": 474
+                },
+                {
+                    "id": 3,
+                    "month_number": 1,
+                    "month": "Jan",
+                    "visits": 571
+                },
+                {
+                    "id": 4,
+                    "month_number": 1,
+                    "month": "Jan",
+                    "visits": 381
+                },
+                {
+                    "id": 5,
+                    "month_number": 1,
+                    "month": "Jan",
+                    "visits": 471
+                },
+                {
+                    "id": 6,
+                    "month_number": 1,
+                    "month": "Jan",
+                    "visits": 442
+                },
+                {
+                    "id": 7,
+                    "month_number": 1,
+                    "month": "Jan",
+                    "visits": 543
+                },
+                {
+                    "id": 8,
+                    "month_number": 1,
+                    "month": "Jan",
+                    "visits": 386
+                },
+                {
+                    "id": 9,
+                    "month_number": 1,
+                    "month": "Jan",
+                    "visits": 557
+                },
+                {
+                    "id": 10,
+                    "month_number": 1,
+                    "month": "Jan",
+                    "visits": 441
+                },
+                {
+                    "id": 11,
+                    "month_number": 1,
+                    "month": "Jan",
+                    "visits": 486
+                }
+            ]
+        }
+    }
+]
